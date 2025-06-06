@@ -69,8 +69,8 @@ UI references from frontend mentors and Dribbble shots
 👨‍💻 Author
 Ashish Kumar
 
-GitHub: @Singhashish-commitss
+GitHub: @Singhashish-commits
 
-Twitter: @Ashish_SinghC
+Twitter: @Ashish_SinghCs
 
 LinkedIn: @https://www.linkedin.com/in/ashish-kumar-449215349/
